@@ -1,8 +1,16 @@
 import React from 'react';
+import Routes from './routes'
+import FilmsProvider from './Context/Films'
 
+import './App.css'
 function App() {
   return (
-    <h1>App</h1>
+
+    <FilmsProvider>
+
+      <Routes />
+
+    </FilmsProvider>
   )
 }
 

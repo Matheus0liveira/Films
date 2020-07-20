@@ -1,0 +1,65 @@
+.film-single {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-direction: column; */
+  margin: 50px 0;
+}
+
+article {
+  display: flex;
+  width: 50%;
+  background: #f7fafd;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 1px 1px 10px #CCC;
+}
+
+article .details {
+  width: 100%;
+}
+
+article img {
+  border-radius: 5px;
+  min-width: 350px;
+  height: 350px;
+
+}
+
+article h1 {
+  text-transform: uppercase;
+}
+
+article h1,
+article h5,
+article p,
+article button {
+  margin: 10px 20px;
+}
+
+article p {
+  margin-left: 25px;
+  text-decoration: underline;
+  font-weight: 300;
+  font-style: italic;
+  color: rgb(82, 82, 82);
+}
+
+article button {
+  width: 90%;
+  font-weight: bold;
+  background: #EB5050;
+  color: #FFF;
+  border: 1px solid #CCC;
+  outline: 0;
+  border-radius: 5px;
+  padding: 7px 15px;
+  cursor: pointer;
+  transition: all .5s;
+}
+
+article button:hover {
+  background: #f87b7b;
+
+}
