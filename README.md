@@ -55,4 +55,4 @@ $ npm install
 
 ## <div id='author'>Autor:</div>
 
-Olá, sou <a href='https:/github.com/Matheus0liveira'> Matheus Oliveira Santos</a> autor desse projeto, sou iniciante em React, e sim! esse projeto tem foco em aprimorar habilidades em ReactJS.
+Olá, sou <a href='https://github.com/Matheus0liveira'> Matheus Oliveira Santos</a> autor desse projeto, sou iniciante em React, e sim! esse projeto tem foco em aprimorar habilidades em ReactJS.
