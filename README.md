@@ -8,6 +8,7 @@
 <a  href="#about"> ❓ Sobre o Projeto</a> |
 <a  href="#dependencies"> 📚 Dependências</a> |
 <a  href="#instalation"> 💻 Instalação</a> |
+<a  href="#print"> 📸 Prints</a> |
 <a  href="#author"> 👦🏾 Autor</a>
 
 </div>
@@ -53,6 +54,20 @@ $ npm install
 //Instala todas as depêndencias necessárias
 ```
 
+---
+
+## <div id='prints'>Prints:</div>
+
+<div align='center'>
+<img src="./.github/print-1.png" width="700px">
+<img src="./.github/print-2.png" width="700px">
+<img src="./.github/print-3.png" width="700px">
+</div>
+
+---
+
 ## <div id='author'>Autor:</div>
 
 Olá, sou <a href='https://github.com/Matheus0liveira'> Matheus Oliveira Santos</a> autor desse projeto, sou iniciante em React, e sim! esse projeto tem foco em aprimorar habilidades em ReactJS.
+
+---
