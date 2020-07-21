@@ -21,6 +21,11 @@ header a {
   color: #FFF;
 }
 
+header a h1 {
+
+  font-weight: lighter;
+}
+
 header a .icon-logo {
   width: 30px;
   height: 30px;

@@ -1,68 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
 
-## Available Scripts
+<img  src='./.github/logo.png' width='300'/>
 
-In the project directory, you can run:
+</div>
+<div align='center'>
 
-### `yarn start`
+<a  href="#about"> ❓ Sobre o Projeto</a> |
+<a  href="#dependencies"> 📚 Dependências</a> |
+<a  href="#instalation"> 💻 Instalação</a> |
+<a  href="#author"> 👦🏾 Autor</a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## <div id='about'>Sobre o Projeto:</div>
 
-### `yarn test`
+Movie é um projeto que simula uma biblioteca de filmes onde ao navegar você encrontrará filmes e ao clicar em mais detalhes abrirá uma página única de cada filme mostrando alguns detalhes.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> Projeto em react (create-react-app).
 
-### `yarn build`
+> Esse projeto utiliza uma <a href='https://github.com/Matheus0liveira/fake-api/blob/master/db.json'> **_Fake-API_** </a>, criada com <a href='https://jsonplaceholder.typicode.com/'> **_JSONPlaceholder_**</a>.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## <div id='dependencies'>Dependências:</div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Projeto em React
 
-### `yarn eject`
+<ol>
+<li> react-router-dom - Criação de rotas</li>
+<li> react-icons - Icones personalizados</li>
+<li> react-lottie - Icones animados. exemplo: error 404 not found.</li>
+</ol>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## <div id='instalation'>Instalação:</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Em seu terminal digite:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```JavaScript
+$ git clone
+// Download do projeto
 
-## Learn More
+$ cd filmsa
+// Entrar na pasta filmes
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+$ yarn
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+// ou
 
-### Code Splitting
+$ npm install
+//Instala todas as depêndencias necessárias
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## <div id='author'>Autor:</div>
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Olá, sou <a href='https:/github.com/Matheus0liveira'> Matheus Oliveira Santos</a> autor desse projeto, sou iniciante em React, e sim! esse projeto tem foco em aprimorar habilidades em ReactJS.

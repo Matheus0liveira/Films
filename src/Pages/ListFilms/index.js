@@ -1,8 +1,9 @@
 import React from 'react';
+import { Link } from 'react-router-dom'
 import './style.css'
 
 
-import { useFilms } from '../../Context/Films'
+import { useFilms } from '../../Context/ListFilms'
 
 
 
@@ -28,13 +29,16 @@ function ListFilms() {
                 <h1>{film.name}</h1>
                 <h5> Sinopse</h5>
                 <p>{film.description}</p>
-                <button>Mais Detalhes</button>
+                <Link to={`/Film/${film.id}`}>
+                  <button>Mais Detalhes</button>
+                </Link>
               </div>
 
             </article>
           </div>
         ))
-      )}
+      )
+      }
     </>
   );
 }
