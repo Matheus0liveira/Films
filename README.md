@@ -39,7 +39,7 @@ Movie é um projeto que simula uma biblioteca de filmes onde ao navegar você en
 Em seu terminal digite:
 
 ```JavaScript
-$ git clone
+$ git clone https://github.com/Matheus0liveira/Films.git
 // Download do projeto
 
 $ cd filmsa
