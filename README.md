@@ -56,7 +56,7 @@ $ npm install
 
 ---
 
-## <div id='prints'>Prints:</div>
+## <div id='print'>Prints:</div>
 
 <div align='center'>
 <img src="./.github/print-1.png" width="700px">
